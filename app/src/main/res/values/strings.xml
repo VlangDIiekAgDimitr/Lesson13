@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson13</string>
+    <string name="addButtonTxt">(+)</string>
+    <string name="removeButtonTxt">(-)</string>
+    <string name="pointsViewTxt">0</string>
+    <string name="titleViewTxt">Το παιχνίδι</string>
+</resources>
